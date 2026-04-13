@@ -11,7 +11,7 @@ Library: C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\BurstOutpu
 --linker-options=PdbAltPath="KitchenGame_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Library\Burst
 --output=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -125,7 +125,7 @@ Library: C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\BurstOutpu
 --linker-options=PdbAltPath="KitchenGame_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Library\Burst
 --output=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -241,7 +241,7 @@ Library: C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\BurstOutpu
 --linker-options=PdbAltPath="KitchenGame_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Library\Burst
 --output=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -262,7 +262,7 @@ Library: C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\BurstOutpu
 --linker-options=PdbAltPath="KitchenGame_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Library\Burst
 --output=C:\Users\VICTUS\Desktop\Vinit\Unity Project\KitchenGame\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/

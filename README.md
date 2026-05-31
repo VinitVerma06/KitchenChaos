@@ -32,7 +32,7 @@ Platforms Supported:
 ## 🛠️ Technologies & Tools
 
 **Engine & Framework:**
-- Unity 2022.3.13f1 LTS 
+- Unity 6000.3.13f1 LTS 
 - C# (.NET Standard 2.1)
 
 **Key Unity Packages:**
@@ -49,7 +49,7 @@ Platforms Supported:
 
 **Version Control:**
 - Git
-- GitHub
+- GitHub Desktop
 
 ## ⚙️ Game Mechanics
 
@@ -102,6 +102,8 @@ If I were to continue development, potential additions would include:
 - **Tutorial Reference**: [CodeMonkey's Unity Beginner/Intermediate tutorial](https://youtu.be/AmGSEH7QcDg?si=kROL3MWwa_InJVpr) 
 - **Assets**: [Desk Bell by Jarlan Perez via Poly Pizza](https://poly.pizza/m/1BXI7wJyaG8) [CC-BY](https://creativecommons.org/licenses/by/3.0/)
 - **Sound Effects**: [Bell SFX by freesound_community from Pixabay](https://pixabay.com/sound-effects/film-special-effects-service-bell-ring-14610/)
+
+- **Game Tester**: [Aashay Lanjewar](https://github.com/Aashay-Git)
 
 ## 📧 Contact
 

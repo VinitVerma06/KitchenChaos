@@ -33,7 +33,7 @@ Platforms Supported:
 
 **Engine & Framework:**
 - Unity 6000.3.13f1 LTS 
-- C# (.NET Standard 2.1)
+- C# (.NET Standard 8)
 
 **Key Unity Packages:**
 - Unity Input System (New Input System)
@@ -104,6 +104,11 @@ If I were to continue development, potential additions would include:
 - **Sound Effects**: [Bell SFX by freesound_community from Pixabay](https://pixabay.com/sound-effects/film-special-effects-service-bell-ring-14610/)
 
 - **Game Tester**: [Aashay Lanjewar](https://github.com/Aashay-Git)
+
+## 📄 License
+
+This project was created for portfolio purposes.  
+All Rights Reserved — not for redistribution.
 
 ## 📧 Contact
 
